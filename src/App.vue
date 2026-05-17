@@ -27,7 +27,7 @@ const techList = [
   },
   {
     icon: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Avalonia_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    label: "WPF / Avalonia",
+    label: "Avalonia",
     detail: "Aplikasi desktop Windows dan cross-platform dengan antarmuka modern.",
   },
   {
