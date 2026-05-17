@@ -4,7 +4,7 @@ import FeatureCard from "./components/FeatureCard.vue";
 import ProjectCard from "./components/ProjectCard.vue";
 import TechCard from "./components/TechCard.vue";
 import TimelineItem from "./components/TimelineItem.vue";
-import pfp from "./assets/pfp.jpg";
+import pfp from "./Assets/pfp.jpg";
 
 const navigation = ["About", "Tech", "Focus", "Projects", "Certificates", "Edukasi", "Contact"];
 
